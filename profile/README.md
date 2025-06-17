@@ -11,6 +11,6 @@ Here, the transferred repositories:
 - will be filtered for viability
 - will be qualified in the near future and moved towards their final position, in one of IBM's organizations
 
-Following IBM's acquisition of webMethods and Streamsets in 2024, the license owner of these repositories is changed from Software AG to IBM Corporation.
+Following IBM's acquisition of webMethods and StreamSets in 2024, the license owner of these repositories is changed from Software AG to IBM Corporation.
 
 IBM Corporation does not offer any support or guarantees of any nature over the existing incoming contents.
